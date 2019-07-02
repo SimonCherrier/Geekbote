@@ -1,0 +1,14 @@
+{
+  "name": "GeekBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scipts": {
+    "test": "echo \"Error: no teat specified\" && exit 1"
+  },
+  "autor": "SimonCherrier"
+  "license": "ISC"
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
